@@ -1,0 +1,17 @@
+.myClass {
+            color: blue;
+            text-decoration: transparent;
+            background-color: yellowgreen;
+        }
+  body{
+    background-color: pink;
+  } 
+  button{
+    background-color: red;
+    color: white;
+  }     
+h3{
+  color: rgb(255, 0, 119);
+  text-decoration: transparent;
+  background-color: rgb(104, 50, 205);
+}
